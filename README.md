@@ -120,3 +120,64 @@ Through this project, I practiced:
 
 👩‍💻 Developed by: Kavyashree  
 Python Programming Internship – CODSOFT
+# Task 3: Password Generator Application
+
+## 📌 Project Overview
+This is a command-line based Password Generator application developed using Python in PyCharm.
+It generates strong and random passwords based on user-defined length and complexity.
+
+---
+
+## 🚀 Features
+- User-defined password length
+- Combination of uppercase and lowercase letters
+- Includes numbers
+- Includes special characters
+- Generates strong and secure random passwords
+
+---
+
+## 🛠 Technologies Used
+- Python
+- PyCharm IDE
+- Random Module
+- String Module
+
+---
+
+## ▶ How to Run the Program
+
+### Using PyCharm:
+1. Open the project in PyCharm.
+2. Open `password_generator.py`.
+3. Click the Run button ▶.
+
+### Using Command Prompt (Optional):
+```bash
+python password_generator.py
+```
+
+---
+
+## 📂 Project Structure
+
+```
+Task3_PasswordGenerator/
+│
+├── password_generator.py
+└── README.md
+```
+
+---
+
+## 🎯 Learning Outcome
+Through this project, I practiced:
+- Using Python’s `random` module
+- Working with strings and character sets
+- Handling user input
+- Building a secure password generation logic
+
+---
+
+👩‍💻 Developed by: Kavyashree  
+Python Programming Internship – CODSOFT
